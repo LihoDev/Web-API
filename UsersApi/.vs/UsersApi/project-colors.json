@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6f9015e9-8fc4-4312-be78-8f0ae6d58b9f": {
+      "ProjectGuid": "6f9015e9-8fc4-4312-be78-8f0ae6d58b9f",
+      "DisplayName": "UsersApi",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "2a3ec62d-75b2-4106-8b4f-f7788cc3456b": {
+      "ProjectGuid": "2a3ec62d-75b2-4106-8b4f-f7788cc3456b",
+      "DisplayName": "UsersApi",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

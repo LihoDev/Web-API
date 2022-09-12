@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "df1190bf-1d0c-4dfb-b98e-df1bb9348a02": {
+      "ProjectGuid": "df1190bf-1d0c-4dfb-b98e-df1bb9348a02",
+      "DisplayName": "UsersApi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
