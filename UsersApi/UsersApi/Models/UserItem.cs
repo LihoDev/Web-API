@@ -10,6 +10,5 @@ namespace UsersApi.Models
         public string? Password { get; set; }
         public decimal Money { get; set; }
         public long Record { get; set; }
-        public bool Banned { get; set; }
     }
 }
